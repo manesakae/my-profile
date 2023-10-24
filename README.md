@@ -10,3 +10,9 @@ Oct 20, 2023
   - Created DynamoDB to store the data
   - Created the POST API /contact to store the contact data in Dynamo db and send email
 
+Oct 23, 2023
+2. Build the frontend (In progress)
+- static website hosting
+- UI implementation
+- contact form validation added
+- contact api call from frontend
