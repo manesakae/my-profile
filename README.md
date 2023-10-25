@@ -16,3 +16,12 @@ Oct 23, 2023
 - UI implementation
 - contact form validation added
 - contact api call from frontend
+
+
+Oct 24, 2023
+2. Buy the domain and setup cloudfront
+- buy domain - manishashakya.click
+- created aws certificate
+- created cloudfront
+- setup route53 to redirect from domain to cloudfront
+
