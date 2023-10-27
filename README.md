@@ -25,3 +25,10 @@ Oct 24, 2023
 - created cloudfront
 - setup route53 to redirect from domain to cloudfront
 
+Oct 26, 2023
+- write the blog and update in the website
+
+
+
+
+
