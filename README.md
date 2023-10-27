@@ -28,6 +28,9 @@ Oct 24, 2023
 Oct 26, 2023
 - write the blog and update in the website
 
+Oct 27, 2023
+- Test the website and make sure everything works
+- Record the demo video
 
 
 
